@@ -36,7 +36,7 @@ education: BE Computer Science and Engineering (Core)
 university: Sathyabama University, Chennai
 role: Computer Science Student
 
-programming_languages:
+languages:
   - C
   - Python
   - Java
@@ -68,11 +68,9 @@ mindset: Learn → Build → Experiment → Optimize → Improve
 
 I'm a Computer Science Engineering student passionate about **programming, software development, computer hardware, and technology**.
 
-I enjoy working with **C, Python, Java, and R**, while continuously improving my problem-solving and development skills.
+I work with **C, Python, Java, and R**, while continuously improving my programming, problem-solving, and development skills.
 
-Beyond software, I enjoy **building PCs from individual components**, understanding hardware compatibility, identifying bottlenecks, and optimizing components together to achieve stable and smooth system performance.
-
-My goal is to combine my knowledge of **software and hardware** to build practical and useful technology.
+I also have a strong interest in **PC building and hardware optimization** — from selecting compatible components and assembling a PC from scratch to balancing components and optimizing the complete system for smooth, stable performance.
 
 ---
 
@@ -114,62 +112,63 @@ My goal is to combine my knowledge of **software and hardware** to build practic
 
 ---
 
-## ■ My Learning Journey
+## ■ PC Building & Hardware Optimization
+
+<div align="center">
+
+<img src="./assets/pc-building.png" alt="PC Building and Hardware Optimization" width="850"/>
+
+</div>
+
+I have a strong interest in **building and optimizing PCs from scratch**.
+
+My hardware knowledge includes selecting components based on **compatibility, performance, budget, and system requirements**, then configuring them to work efficiently together.
+
+### What I Can Do
+
+* Build a complete PC from individual components
+* Select compatible CPU, GPU, motherboard, RAM, storage, PSU, and cooling
+* Balance components to avoid performance bottlenecks
+* Understand CPU and GPU performance requirements
+* Select suitable RAM and storage configurations
+* Plan appropriate PSU capacity and power requirements
+* Configure cooling and airflow
+* Assemble and configure a PC
+* Install drivers, BIOS settings, and system software
+* Troubleshoot hardware and software issues
+* Optimize system settings for smoother performance
+* Identify hardware bottlenecks
+* Tune the overall system for **performance, stability, and efficiency**
 
 ```text
-Programming Fundamentals
-        ↓
-C Programming
-        ↓
-Python & Java
-        ↓
-R Programming
-        ↓
-Object-Oriented Programming
-        ↓
-Data Structures & Algorithms
-        ↓
-Web & Database Development
-        ↓
-Computer Hardware & PC Building
-        ↓
+Requirements
+     ↓
+Component Selection
+     ↓
+Compatibility Check
+     ↓
+CPU + GPU Balance
+     ↓
+RAM + Storage
+     ↓
+PSU + Cooling
+     ↓
+PC Assembly
+     ↓
+BIOS & Drivers
+     ↓
+Performance Testing
+     ↓
 System Optimization
-        ↓
-Artificial Intelligence
-        ↓
-Real-World Projects
-        ↓
-Professional Growth
 ```
 
-### Currently Exploring
-
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* Database Management
-* Web Development
-* Artificial Intelligence
-* Software Development
-* Computer Hardware
-* PC Building & Optimization
-* Git & GitHub
-* Real-World Project Development
+> **Build it → Configure it → Optimize it → Make it run smoothly**
 
 ---
 
 ## ■ Featured Projects
 
-### ■ Project 01 — ERP GUMBAL
-
-A practical software project focused on applying programming and development concepts to create a useful real-world application.
-
-**Tech Stack:**
-
-`Java` `HTML` `CSS` `JavaScript` `Database`
-
----
-
-### ■ Project 02 — Online Jewellery Store Database
+### ■ Project 01 — Online Jewellery Store Database
 
 A database design project for an **Online Jewellery Store**, focusing on entities, relationships, tables, database organization, and efficient data management.
 
@@ -179,7 +178,7 @@ A database design project for an **Online Jewellery Store**, focusing on entitie
 
 ---
 
-### ■ Project 03 — C Programming Projects
+### ■ Project 02 — C Programming Projects
 
 A collection of C programming projects created to strengthen programming fundamentals, logical thinking, algorithms, functions, loops, arrays, pointers, and problem-solving skills.
 
@@ -189,71 +188,13 @@ A collection of C programming projects created to strengthen programming fundame
 
 ---
 
-### ■ Project 04 — PC Building & Hardware Optimization
+### ■ Project 03 — PC Building & Hardware Optimization
 
-Hands-on understanding of building a complete PC from individual components and optimizing the system for stable and smooth operation.
+A hands-on hardware-focused project involving PC component selection, compatibility checking, system assembly, performance balancing, troubleshooting, and optimization.
 
-The process includes selecting compatible components, balancing CPU/GPU performance, choosing suitable RAM and storage, understanding PSU requirements, managing cooling, identifying bottlenecks, and optimizing the overall system.
+**Tech Stack:**
 
-**Skills:**
-
-`PC Building` `Component Compatibility` `CPU` `GPU` `RAM` `Storage` `PSU` `Cooling` `Performance Optimization`
-
----
-
-## ■ PC Building & Hardware
-
-```text
-Requirements
-      ↓
-Component Selection
-      ↓
-Compatibility Check
-      ↓
-CPU + GPU Balance
-      ↓
-RAM + Storage Selection
-      ↓
-Power Supply Planning
-      ↓
-Cooling Configuration
-      ↓
-PC Assembly
-      ↓
-BIOS & Driver Setup
-      ↓
-System Optimization
-      ↓
-Performance Testing
-```
-
-I enjoy understanding how individual components work together as a complete system.
-
-From selecting compatible hardware and assembling a PC from scratch to identifying bottlenecks and optimizing the system, I am interested in both the **technical and practical side of computer hardware**.
-
----
-
-## ■ My Learning Journey
-
-```text
-Education
-   ↓
-Programming
-   ↓
-Development
-   ↓
-Data Structures
-   ↓
-Computer Hardware
-   ↓
-Advanced Skills
-   ↓
-Real Projects
-   ↓
-Professional Growth
-```
-
-> **Learn → Build → Experiment → Optimize → Improve**
+`PC Hardware` `Component Selection` `Optimization` `Troubleshooting`
 
 ---
 
@@ -267,6 +208,7 @@ learning:
   - R Programming
   - Data Structures & Algorithms
   - Object-Oriented Programming
+  - Database Management
 
 building:
   - College Projects
@@ -279,6 +221,7 @@ hardware:
   - Component Compatibility
   - Hardware Optimization
   - Performance Troubleshooting
+  - System Configuration
 
 exploring:
   - Artificial Intelligence
@@ -292,32 +235,6 @@ goal:
   - Build Useful Real-World Applications
   - Develop Strong Hardware & Software Knowledge
 ```
-
----
-
-## ■ What I Enjoy
-
-```text
-Writing Code
-     ↓
-Understanding Technology
-     ↓
-Building Projects
-     ↓
-Building PCs
-     ↓
-Solving Problems
-     ↓
-Optimizing Systems
-     ↓
-Learning Something New
-```
-
-I enjoy both sides of computing:
-
-**Software** → Writing programs, solving problems, developing applications and learning new technologies.
-
-**Hardware** → Building PCs, selecting compatible components, understanding bottlenecks and optimizing systems for smooth performance.
 
 ---
 
